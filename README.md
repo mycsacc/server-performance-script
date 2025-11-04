@@ -47,7 +47,7 @@ Run the script using the following command:
 
 ### Project URL
 
-You can access the project here: https://github.com/mycsacc/server-performance-script
+You can access the project here: https://roadmap.sh/projects/server-stats
 
 
 
